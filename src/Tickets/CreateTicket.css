@@ -1,0 +1,28 @@
+.create-ticket {
+  width: calc(100% - 200px);
+}
+.create-ticket-heading {
+  margin: 2% 0 2% 4%;
+  text-align: center;
+}
+.create-ticket-form {
+  width: 60%;
+  margin: auto;
+  padding: 5%;
+}
+.create-btn {
+  background-color: rgb(85, 236, 173);
+  border: 1px solid rgb(85, 236, 173);
+  color: black;
+}
+.create-btn:hover {
+  background-color: rgb(6, 168, 101);
+}
+.add-query-type {
+  background-color: rgb(85, 236, 173);
+  border: 1px solid rgb(85, 236, 173);
+  color: black;
+}
+.add-query-type:hover {
+  background-color: rgb(6, 168, 101);
+}

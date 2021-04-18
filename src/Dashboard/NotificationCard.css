@@ -1,0 +1,27 @@
+.card {
+  background-color: mintcream;
+}
+.tickets-raised {
+  border-left: 5px solid #0275d8;
+  border-radius: 5px;
+}
+.tickets-raised-title {
+  color: #0275d8;
+  font-weight: bold;
+}
+.tickets-active {
+  border-left: 5px solid #f0ad4e;
+  border-radius: 5px;
+}
+.tickets-active-title {
+  color: #f0ad4e;
+  font-weight: bold;
+}
+.tickets-resolved {
+  border-left: 5px solid #5cb85c;
+  border-radius: 5px;
+}
+.tickets-resolved-title {
+  color: #5cb85c;
+  font-weight: bold;
+}

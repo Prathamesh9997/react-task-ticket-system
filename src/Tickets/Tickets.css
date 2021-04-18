@@ -1,0 +1,29 @@
+.tickets {
+  width: calc(100% - 200px);
+  display: flex;
+  flex-direction: column;
+}
+.tickets-heading {
+  margin: 2% 0 2% 4%;
+}
+.ticket-list {
+  margin: 0 2%;
+}
+.ticket-table {
+  height: 60vh;
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
+.add-ticket {
+  margin: 2%;
+  align-self: flex-end;
+  background-color: rgb(85, 236, 173);
+  color: black;
+  border: 1px solid rgb(85, 236, 173);
+}
+.add-ticket:hover {
+  background-color: rgb(6, 168, 101);
+}
